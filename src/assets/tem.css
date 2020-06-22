@@ -1,0 +1,15 @@
+body {
+    font: 100% Helvetica, sans-serif;
+    color:black;    
+   padding: 100px;
+   padding-left: 100px;
+  }
+  h5{
+    color: grey;
+    font-size:x-large;
+  }
+  .my-card{
+    width: 100%;
+    max-width: 250px;
+  }
+  
