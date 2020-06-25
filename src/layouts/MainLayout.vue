@@ -67,6 +67,20 @@ export default {
     return {
       label:"Login with MetaMask",
       leftDrawerOpen: false,
+      images: [
+        'https://images-na.ssl-images-amazon.com/images/I/81Vv9UvptRL._SY355_.png',
+        'https://images-na.ssl-images-amazon.com/images/I/81B8zxdRaRL._SY355_.png',
+        'https://images-na.ssl-images-amazon.com/images/I/71zFKb2gQNL._SX425_.png',
+        'https://images-na.ssl-images-amazon.com/images/I/41a1syPyhOL.jpg',
+        'https://n2.sdlcdn.com/imgs/e/i/7/Ritzkart-Brown-Formal-Hair-Wig-SDL063790351-2-affc0.JPG',
+        'https://www.thehindu.com/entertainment/movies/o50yp7/article31455525.ece/alternates/FREE_435/thappad',
+        'https://images-eu.ssl-images-amazon.com/images/I/615mQ9fY6bL.jpg',
+        'https://mcdn.wallpapersafari.com/medium/23/62/714DV3.jpg',
+        'https://images-na.ssl-images-amazon.com/images/I/81B8zxdRaRL._SY355_.png',
+        'https://images-na.ssl-images-amazon.com/images/I/41a1syPyhOL.jpg',
+        'https://www.thehindu.com/entertainment/movies/o50yp7/article31455525.ece/alternates/FREE_435/thappad',
+        'https://n2.sdlcdn.com/imgs/e/i/7/Ritzkart-Brown-Formal-Hair-Wig-SDL063790351-2-affc0.JPG',
+      ],
       essentialLinks: [
         {
           title: 'Delhi',
